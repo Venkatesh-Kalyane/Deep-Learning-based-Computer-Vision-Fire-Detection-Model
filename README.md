@@ -8,12 +8,15 @@ In this work, We train a Convolutional Neural Network which can achieve 93% accu
 2. Requirement:
 
 Click on the below link to change mail setting in order to receive the configured mail:
-	if you have google account then click on below link and turn on "Allow less secure apps: ON"
-	https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OV2WAN2Nib4Q1GmYHbc8LwBLaTMJaDWr_H9Alev9Ut3AQMXU0jQj303_iVgRahirkuchOoiOdWl5fqh57LCsvXSw5j4Q
+if you have google account then click on below link and turn on "Allow less secure apps: ON":
+
+https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OV2WAN2Nib4Q1GmYHbc8LwBLaTMJaDWr_H9Alev9Ut3AQMXU0jQj303_iVgRahirkuchOoiOdWl5fqh57LCsvXSw5j4Q
   
+
 3. Result:
 
 ![image](https://user-images.githubusercontent.com/68990293/130759444-b5f28b54-d229-4430-b9ce-4cfe508b7e2a.png)
+
 
 
 4. Triggered Mail to Helpdesk Team:
