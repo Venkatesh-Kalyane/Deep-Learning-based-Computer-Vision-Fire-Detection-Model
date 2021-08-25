@@ -2,8 +2,11 @@
 
 1. Introduction:
 
-Fire is very useful discovery of the humanity. Like any other human invention, mis-handeling of fire can cause huge damage to the humanity and nature. The advancement in technology and especially the Machine learning and Deep learning have benifited the society a lot in diverse aspects, ranging from self driving car to cancer research. Hence, it can surely contribute to the technology to early detect the fire so that we can react it earlier before getting it worse and making a lots of damage or being it out of control.We can Design and train a deep neural network to distinguish fire and non-fire situation with very good accuracy. This technology aided with suitable hardware design can be vary useful to minimize the fire hazard. 
-In this work, We train a Convolutional Neural Network which can achieve 93% accuracy in classifying and detecting the fire. It is integrated with GPS to extract the co-ordinates of location where the fire incident has occured, Alarm to warn the people and configured Mail to send the location details to Fire Brigade team.
+Fire is very useful discovery of the humanity. Like any other human invention, mis-handeling of fire can cause huge damage to the humanity and nature. The advancement in technology and especially the Machine learning and Deep learning have benifited the society a lot in diverse aspects, ranging from self driving car to cancer research. Hence, it can surely contribute to the technology to early detect the fire so that we can react it earlier before getting it worse and making a lots of damage or being it out of control.We can Design and train a deep neural network to distinguish fire and non-fire situation with very good accuracy. This technology aided with suitable hardware design can be vary useful to minimize the fire hazard.
+
+In this work, We train a Convolutional Neural Network which can achieve 93% accuracy in classifying and detecting the fire. It is integrated with GPS to extract the co-ordinates of location where the fire incident has occured, Alarm to warn the people and configured Mail to send the location details to Helpdesk Team.
+
+This Idea can be implemented in any workplaces such as Manufacturing Units, Factory or Office, which would help to save the life of employees, workers and avoid the property damage.
 
 2. Requirement:
 
