@@ -18,7 +18,8 @@ https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OV2WAN2Nib4Q1GmYHbc
 
 3. Result:
 
-![image](https://user-images.githubusercontent.com/68990293/130759444-b5f28b54-d229-4430-b9ce-4cfe508b7e2a.png)
+![image](https://user-images.githubusercontent.com/68990293/130960771-85c10600-88f3-4fc4-8381-52868ca37e6c.png)
+
 
 
 
@@ -28,6 +29,13 @@ https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4OV2WAN2Nib4Q1GmYHbc
 
 
 ![image](https://user-images.githubusercontent.com/68990293/130759712-c9729d23-93ce-4c2d-ad8d-3412b35bf70e.png)
+
+
+
+5. My Vision/ Visualised Implementation in the Factory/Office:
+               
+https://youtu.be/xHcLlvGQ2uM
+
 
 
 
